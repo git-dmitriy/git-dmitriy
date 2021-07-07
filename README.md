@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm Dmitriy, frontend developer.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282828?style=flat&logo=mongodb)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-282828?style=flat&logo=storybook)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-282828?style=flat&logo=webpack)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-282828?style=flat&logo=vite)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-282828?style=flat&logo=babel)&nbsp;
 ![Three](https://img.shields.io/badge/-Three-282828?style=flat&logo=threedotjs)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-282828?style=flat&logo=npm)&nbsp;
