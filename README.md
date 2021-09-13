@@ -17,17 +17,12 @@ Welcome to my GitHub! I'm Dmitriy, frontend developer.
 ![Express](https://img.shields.io/badge/-Express-272727?style=flat&logo=express)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-272727?style=flat&logo=reactrouter)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-272727?style=flat&logo=redux)&nbsp;
-![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-272727?style=flat&logo=redux-saga)&nbsp;
-
-![ReactNative](https://img.shields.io/badge/-ReactNative-272727?style=flat&logo=react)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-272727?style=flat&logo=expo)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282828?style=flat&logo=mongodb)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-282828?style=flat&logo=storybook)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-282828?style=flat&logo=webpack)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-282828?style=flat&logo=vite)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-282828?style=flat&logo=babel)&nbsp;
-![Three](https://img.shields.io/badge/-Three-282828?style=flat&logo=threedotjs)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-282828?style=flat&logo=npm)&nbsp;
 
 ![Gulp](https://img.shields.io/badge/-Gulp-282828?style=flat&logo=gulp)&nbsp;
@@ -45,6 +40,11 @@ Welcome to my GitHub! I'm Dmitriy, frontend developer.
 ![GitHub](https://img.shields.io/badge/-GitHub-282828?style=flat&logo=github)&nbsp;
 
 ## ⌨ &nbsp;Familiar with
+
+![ReactNative](https://img.shields.io/badge/-ReactNative-272727?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-272727?style=flat&logo=expo)&nbsp;
+![Three](https://img.shields.io/badge/-Three-282828?style=flat&logo=threedotjs)&nbsp;
+![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-272727?style=flat&logo=redux-saga)&nbsp;
 
 ![VUE](https://img.shields.io/badge/-Vue-272727?style=flat&logo=vuedotjs)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-272727?style=flat&logo=wordpress)&nbsp;
