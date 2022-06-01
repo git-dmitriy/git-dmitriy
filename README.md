@@ -4,22 +4,26 @@ Welcome to my GitHub! I'm Dmitriy, frontend developer.
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=git-dmitriy.visitors-badge&color=282828)
 
-- 🌱 I’m currently learning Web JS stack
+🌱 I’m currently learning Web JS stack
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-272727?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-272727?style=flat&logo=typescript)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-272727?style=flat&logo=nodedotjs)&nbsp;
-
 ![React](https://img.shields.io/badge/-React-272727?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-282828?style=flat&logo=nextdotjs)&nbsp;
-![Express](https://img.shields.io/badge/-Express-272727?style=flat&logo=express)&nbsp;
+
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-272727?style=flat&logo=reactrouter)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-272727?style=flat&logo=redux)&nbsp;
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-282828?style=flat&logo=mongodb)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-272727?style=flat&logo=graphql)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-272727?style=flat&logo=apollographql)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-282828?style=flat&logo=storybook)&nbsp;
+
+![Node](https://img.shields.io/badge/-Node.js-272727?style=flat&logo=nodedotjs)&nbsp;
+![Express](https://img.shields.io/badge/-Express-272727?style=flat&logo=express)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-272727?style=flat&logo=sequelize)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-282828?style=flat&logo=mongodb)&nbsp;
+
 ![Webpack](https://img.shields.io/badge/-Webpack-282828?style=flat&logo=webpack)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-282828?style=flat&logo=vite)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-282828?style=flat&logo=babel)&nbsp;
@@ -30,6 +34,7 @@ Welcome to my GitHub! I'm Dmitriy, frontend developer.
 ![CSS](https://img.shields.io/badge/-CSS-282828?style=flat&logo=CSS3&logoColor=006bb4)&nbsp;
 ![PUG](https://img.shields.io/badge/-PUG-282828?style=flat&logo=pug)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-282828?style=flat&logo=sass)&nbsp;
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282828?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-282828?style=flat&logo=tailwindcss)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-282828?style=flat&logo=bulma)&nbsp;
