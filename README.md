@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! I'm Dmitriy, frontend developer.
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=git-dmitriy.visitors-badge&color=282828)
 
 🌱 I’m currently learning Web JS stack
 
